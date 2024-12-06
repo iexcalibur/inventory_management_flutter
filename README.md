@@ -40,12 +40,12 @@ A Flutter application for managing product inventory with CRUD operations, real-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inventory_management.git
+   git clone https://github.com/iexcalibur/inventory_management_flutter.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd inventory_management
+   cd inventory_management_flutter
    ```
 
 3. Install dependencies:
