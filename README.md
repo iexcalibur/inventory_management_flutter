@@ -22,6 +22,12 @@ A Flutter application for managing product inventory with CRUD operations, real-
   - Form validation
   - Custom components
 
+## Screenshots
+
+| ![IM_1](https://github.com/user-attachments/assets/54f414b9-fc3e-4e32-97a1-b8ebe2ad6bf1) | ![IM2](https://github.com/user-attachments/assets/f13b4059-d29d-4d0b-85a2-aa7670cc0511) | ![IM3](https://github.com/user-attachments/assets/0b7c8861-e303-4e15-9362-25f7c1f239f6) |
+|:---:|:---:|:---:|
+| Main | Add Product | Edit Product |
+
 ## Getting Started
 
 ### Prerequisites
@@ -34,12 +40,12 @@ A Flutter application for managing product inventory with CRUD operations, real-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iexcalibur/inventory_management_flutter.git
+   git clone https://github.com/yourusername/inventory_management.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd inventory_management_flutter
+   cd inventory_management
    ```
 
 3. Install dependencies:
@@ -73,6 +79,8 @@ dependencies:
   sqflite: ^2.3.0 # Database
   uuid: ^4.2.1 # Unique IDs
 ```
+
+
 
 
 
